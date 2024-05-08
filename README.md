@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled Ahmed</h1>
-<h3 align="center">Undergraduate Electrical Power and Machines Engineer</h3>
+<h3 align="center">Undergraduate Power and Electrical Machines Engineer</h3>
 <p align="center"> <img src="https://i.pinimg.com/originals/01/71/5d/01715d903f85b151035284ed601fdfd0.gif"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledahmed12&label=Profile%20views&color=0e75b6&style=flat" alt="khaledahmed12" /> </p>
 
